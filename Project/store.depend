@@ -1,0 +1,816 @@
+# depslib dependency file v1.0
+1654414205 source:c:\users\hossein\desktop\store\main.cpp
+	<iostream>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+
+1654324916 c:\users\hossein\desktop\store\date.h
+	<iostream>
+
+1654324929 source:c:\users\hossein\desktop\store\date.cpp
+	<iostream>
+	<stdexcept>
+	"Date.h"
+	<iomanip>
+
+1654419245 source:c:\users\hossein\desktop\store\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+
+1654416552 c:\users\hossein\desktop\store\cart.h
+	<iostream>
+	<map>
+
+1654417185 c:\users\hossein\desktop\store\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1654417129 source:c:\users\hossein\desktop\store\product.cpp
+	<iostream>
+	"Product.h"
+
+1654419213 source:c:\users\hossein\desktop\store\store.cpp
+	<iostream>
+	"Store.h"
+	"Customer.h"
+
+1654419321 c:\users\hossein\desktop\store\store.h
+	<iostream>
+	<set>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1654414017 c:\users\hossein\desktop\store\customer.h
+	<iostream>
+	<string>
+	"Cart.h"
+	"Receipt.h"
+
+1654419012 c:\users\hossein\desktop\store\receipt.h
+	<iostream>
+	<map>
+	"Date.h"
+
+1654412959 c:\users\hossein\desktop\store\stock.h
+	<iostream>
+	<map>
+
+1654412532 source:c:\users\hossein\desktop\store\customer.cpp
+	<iostream>
+	"Customer.h"
+
+1654417351 source:c:\users\hossein\desktop\store\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1654418950 source:c:\users\hossein\desktop\store\receipt.cpp
+	<iostream>
+	"Receipt.h"
+
+1654418950 c:\users\hossein\desktop\store\receipt.cpp
+	<iostream>
+	"Receipt.h"
+
+1654419245 source:g:\store2\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+
+1654416552 g:\store2\cart.h
+	<iostream>
+	<map>
+
+1654440892 g:\store2\store.h
+	<iostream>
+	<list>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1654427111 g:\store2\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1654324916 g:\store2\date.h
+	<iostream>
+
+1654414017 g:\store2\customer.h
+	<iostream>
+	<string>
+	"Cart.h"
+	"Receipt.h"
+
+1654440626 g:\store2\receipt.h
+	<iostream>
+	<map>
+	"Date.h"
+
+1654439305 g:\store2\stock.h
+	<iostream>
+	<map>
+
+1654412532 source:g:\store2\customer.cpp
+	<iostream>
+	"Customer.h"
+
+1654427139 source:g:\store2\date.cpp
+	<iostream>
+	<stdexcept>
+	"Date.h"
+	<iomanip>
+
+1654441814 source:g:\store2\main.cpp
+	<iostream>
+	<map>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Stock.h"
+	"Receipt.h"
+
+1654417129 source:g:\store2\product.cpp
+	<iostream>
+	"Product.h"
+
+1654441675 source:g:\store2\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1654439310 source:g:\store2\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1654440225 source:g:\store2\store.cpp
+	<iostream>
+	"Store.h"
+	"Customer.h"
+	"Product.h"
+	<list>
+
+1656134660 source:g:\project store\store2\customer.cpp
+	<iostream>
+	"Customer.h"
+
+1656136541 g:\project store\store2\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656135275 g:\project store\store2\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+
+1656069962 g:\project store\store2\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656068685 g:\project store\store2\date.h
+	<iostream>
+
+1656134241 source:g:\project store\store2\date.cpp
+	<iostream>
+	<stdexcept>
+	"Date.h"
+	<iomanip>
+
+1656133987 source:g:\project store\store2\main.cpp
+	<iostream>
+	<map>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+
+1656134520 g:\project store\store2\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1654427111 g:\project store\store2\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656094730 g:\project store\store2\stock.h
+	<iostream>
+	<map>
+
+1654417129 source:g:\project store\store2\product.cpp
+	<iostream>
+	"Product.h"
+
+1656069976 source:g:\project store\store2\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656094729 source:g:\project store\store2\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1656134704 source:g:\project store\store2\store.cpp
+	<iostream>
+	"Store.h"
+	"Customer.h"
+	"Product.h"
+	<list>
+	<map>
+	<utility>
+
+1656135285 source:g:\project store\store2\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656194031 source:g:\project store\store4\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656135275 g:\project store\store4\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+
+1654427111 g:\project store\store4\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656234642 g:\project store\store4\date.h
+	<iostream>
+
+1656235447 g:\project store\store4\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656190155 g:\project store\store4\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656190582 g:\project store\store4\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656094730 g:\project store\store4\stock.h
+	<iostream>
+	<map>
+
+1656192513 source:g:\project store\store4\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656235179 source:g:\project store\store4\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1654417129 source:g:\project store\store4\product.cpp
+	<iostream>
+	"Product.h"
+
+1656190569 source:g:\project store\store4\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656094729 source:g:\project store\store4\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1656255016 source:g:\project store\store4\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
+1656254266 source:g:\project store\store4\store.cpp
+	<iostream>
+	<fstream>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656321942 source:g:\project store\store5\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656321958 g:\project store\store5\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+
+1654427111 g:\project store\store5\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656323416 g:\project store\store5\date.h
+	<iostream>
+
+1656321801 g:\project store\store5\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656278832 g:\project store\store5\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656322006 g:\project store\store5\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656280896 g:\project store\store5\stock.h
+	<iostream>
+	<map>
+
+1656321845 source:g:\project store\store5\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656323425 source:g:\project store\store5\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1654417129 source:g:\project store\store5\product.cpp
+	<iostream>
+	"Product.h"
+
+1656320597 source:g:\project store\store5\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656280976 source:g:\project store\store5\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1656324854 source:g:\project store\store5\store.cpp
+	<iostream>
+	<fstream>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656324636 source:g:\project store\store5\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
+1656321942 source:g:\project store\store6\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656321958 g:\project store\store6\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+
+1654427111 g:\project store\store6\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656323416 g:\project store\store6\date.h
+	<iostream>
+
+1656321801 g:\project store\store6\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656278832 g:\project store\store6\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656322006 g:\project store\store6\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656280896 g:\project store\store6\stock.h
+	<iostream>
+	<map>
+
+1656321845 source:g:\project store\store6\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656323425 source:g:\project store\store6\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1656324636 source:g:\project store\store6\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
+1654417129 source:g:\project store\store6\product.cpp
+	<iostream>
+	"Product.h"
+
+1656320597 source:g:\project store\store6\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656280976 source:g:\project store\store6\stock.cpp
+	<iostream>
+	<map>
+	"Stock.h"
+
+1656324854 source:g:\project store\store6\store.cpp
+	<iostream>
+	<fstream>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656321845 source:g:\project store\store7\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656278832 g:\project store\store7\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656339978 g:\project store\store7\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+	"Stock.h"
+
+1654427111 g:\project store\store7\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656323416 g:\project store\store7\date.h
+	<iostream>
+
+1656322006 g:\project store\store7\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656323425 source:g:\project store\store7\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1656406931 source:g:\project store\store7\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
+1656321801 g:\project store\store7\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656280896 g:\project store\store7\stock.h
+	<iostream>
+	<map>
+
+1654417129 source:g:\project store\store7\product.cpp
+	<iostream>
+	"Product.h"
+
+1656320597 source:g:\project store\store7\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656406869 source:g:\project store\store7\stock.cpp
+	<iostream>
+	<map>
+	<iomanip>
+	"Stock.h"
+
+1656407311 source:g:\project store\store7\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	<iomanip>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656405485 source:g:\project store\store7\store.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656416158 source:g:\project store\store8\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	<iomanip>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656416280 g:\project store\store8\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+	"Stock.h"
+
+1654427111 g:\project store\store8\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656323416 g:\project store\store8\date.h
+	<iostream>
+
+1656280896 g:\project store\store8\stock.h
+	<iostream>
+	<map>
+
+1656415976 g:\project store\store8\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656416259 g:\project store\store8\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656416296 g:\project store\store8\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656416067 source:g:\project store\store8\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656323425 source:g:\project store\store8\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1654417129 source:g:\project store\store8\product.cpp
+	<iostream>
+	"Product.h"
+
+1656416216 source:g:\project store\store8\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656416193 source:g:\project store\store8\stock.cpp
+	<iostream>
+	<map>
+	<iomanip>
+	"Stock.h"
+
+1656415993 source:g:\project store\store8\store.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656415897 source:g:\project store\store8\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
+1656416158 source:g:\project store\store9\cart.cpp
+	<iostream>
+	<map>
+	<string>
+	<iomanip>
+	"Cart.h"
+	"Store.h"
+	"Product.h"
+
+1656416280 g:\project store\store9\cart.h
+	<iostream>
+	<map>
+	<List>
+	"Product.h"
+	"Stock.h"
+
+1654427111 g:\project store\store9\product.h
+	<iostream>
+	<string>
+	"Date.h"
+
+1656323416 g:\project store\store9\date.h
+	<iostream>
+
+1656280896 g:\project store\store9\stock.h
+	<iostream>
+	<map>
+
+1656415976 g:\project store\store9\store.h
+	<iostream>
+	<list>
+	<map>
+	"Product.h"
+	"Customer.h"
+	"Stock.h"
+
+1656416259 g:\project store\store9\customer.h
+	<iostream>
+	<string>
+	<list>
+	"Cart.h"
+	"Receipt.h"
+
+1656416296 g:\project store\store9\receipt.h
+	<iostream>
+	<map>
+	<list>
+	"Date.h"
+	"Product.h"
+
+1656416067 source:g:\project store\store9\customer.cpp
+	<iostream>
+	<ctime>
+	"Customer.h"
+
+1656416310 source:g:\project store\store9\date.cpp
+	<iostream>
+	"Date.h"
+	<stdexcept>
+	<iomanip>
+
+1654417129 source:g:\project store\store9\product.cpp
+	<iostream>
+	"Product.h"
+
+1656416216 source:g:\project store\store9\receipt.cpp
+	<iostream>
+	"Receipt.h"
+	"Store.h"
+
+1656416193 source:g:\project store\store9\stock.cpp
+	<iostream>
+	<map>
+	<iomanip>
+	"Stock.h"
+
+1656420378 source:g:\project store\store9\store.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Store.h"
+	"Customer.h"
+	<list>
+	<map>
+	<utility>
+
+1656485866 source:g:\project store\store9\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	"Store.h"
+	"Date.h"
+	"Cart.h"
+	"Product.h"
+	"Receipt.h"
+
